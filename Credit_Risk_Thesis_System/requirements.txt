@@ -10,3 +10,4 @@ shap
 hyperopt
 openpyxl
 xlrd
+setuptools
